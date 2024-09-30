@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/farhan71333904" target="blank"><img src="https://img.shields.io/twitter/follow/farhan71333904?logo=twitter&style=for-the-badge" alt="farhan71333904" /></a> </p>
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently working on **Cyber Security**
 
-- 🌱 I’m currently learning **Android Studio, Data Analytics.**
+- 🌱 I’m currently learning ** Data Analytics, Graphic Design.**
 
 - 💬 Ask me about **Data Analytics,Python**
 
 - 📫 How to reach me **farhanmanzorr2002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/farhan-manzoor-2857a1b7](https://www.linkedin.com/in/farhan-manzoor-2857a1b7)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/farhan-manzoor-2857a1b7](https://www.linkedin.com/in/farhan-manzoor-2857a1b7](http://linkedin.com/in/farhanmanzoor))
 
 - ⚡ Fun fact **Education is important , but games are importanter.**
 
