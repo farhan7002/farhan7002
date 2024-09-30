@@ -12,14 +12,13 @@
 
 - 🔭 I’m currently working on **Cyber Security**
 
-- 🌱 I’m currently learning ** Data Analytics, Graphic Design.**
+- 🌱 I’m currently learning **Data Analytics, Graphic Design**
 
 - 💬 Ask me about **Data Analytics,Python**
 
-- 📫 How to reach me **farhanmanzorr2002@gmail.com**
+- 📫 How to reach me **farhanmanzoor2002@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/farhan-manzoor-2857a1b7](https://www.linkedin.com/in/farhan-manzoor-2857a1b7](http://linkedin.com/in/farhanmanzoor))
-
+- 📄 Know about my experiences (http://linkedin.com/in/farhanmanzoor)
 - ⚡ Fun fact **Education is important , but games are importanter.**
 
 <h3 align="left">Connect with me:</h3>
