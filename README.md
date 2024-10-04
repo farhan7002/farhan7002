@@ -22,7 +22,7 @@
 - 📫 How to reach me **farhanmanzoor2002@gmail.com**
 
 - 📄 Know about my experiences http://linkedin.com/in/farhanmanzoor
-- 
+
 - ⚡ Fun fact **Education is important , but games are importanter.**
 
 <h3 align="left">Connect with me:</h3>
