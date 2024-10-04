@@ -14,11 +14,15 @@
 
 - 🌱 I’m currently learning **Data Analytics, Graphic Design**
 
+- 👯 I’m looking forward to collaborate on different
+      Open-source Projects.
+
 - 💬 Ask me about **Data Analytics,Python**
 
 - 📫 How to reach me **farhanmanzoor2002@gmail.com**
 
-- 📄 Know about my experiences (http://linkedin.com/in/farhanmanzoor)
+- 📄 Know about my experiences http://linkedin.com/in/farhanmanzoor
+- 
 - ⚡ Fun fact **Education is important , but games are importanter.**
 
 <h3 align="left">Connect with me:</h3>
